@@ -1,0 +1,10 @@
+{
+  "apiEndpoint": "",
+  "apiKey": "",
+  "knowledgeBaseId": "",
+  "directories": [
+    ""
+  ],
+  "trainingType": "qa",
+  "retryCount": 3
+}
